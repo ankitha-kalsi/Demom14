@@ -8,7 +8,7 @@ public class DemoTest
 	@Test(groups="smoke")
 	public void addtest()
 	{
-		System.out.println("add");
+		System.out.println("add23435455255235235235");
 		System.out.println("test");
 		System.out.println("add");
 		System.out.println("tehed6theuj56st");
